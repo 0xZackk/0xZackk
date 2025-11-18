@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/animations/hacker.gif" width="250" alt="Elite Hacker Avatar"/>
+  <img src="https://giffiles.alphacoders.com/223/223515.gif" width="250" alt="Elite Hacker Avatar"/>
 </p
 
 
