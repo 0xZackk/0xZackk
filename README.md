@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanonymous-art-of-revolution-edition-faezzamrieeanonzworldz--522487994272927164%2F&psig=AOvVaw3q52RWsROZTm2XL-Bky881&ust=1763564832763000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCOD9j4_9-5ADFQAAAAAdAAAAABCaAQ" width="250" alt="Elite Hacker Avatar"/>
+  <img src="https://giffiles.alphacoders.com/310/3104.gif" width="250" alt="avv"/>
 </p
 
 
