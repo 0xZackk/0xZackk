@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/animations/cyber.gif" width="500" alt="Cyber Animation"/>
+  <img src="https://github.com/Ileriayo/markdown-badges/raw/main/animations/cyber.gif" width="1000" alt="Cyber Animation"/>
 </p>
 
 ---
