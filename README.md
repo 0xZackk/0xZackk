@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/310/3104.gif" width="250" alt="avv"/>
+  <img src="https://giffiles.alphacoders.com/310/3104.gif" width="500" alt="avv"/>
 </p
 
 
