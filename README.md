@@ -2,6 +2,12 @@
 
 ### 🛡️ Security Researcher • 👨‍💻 Ethical Hacker • 🔐 Privacy Advocate
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/animations/hacker.gif" width="250" alt="Elite Hacker Avatar"/>
+</p
+
+
 <p align="center">
   <img src="https://github.com/Ileriayo/markdown-badges/raw/main/animations/cyber.gif" width="500" alt="Cyber Animation"/>
 </p>
